@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sadie109
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👋 Hi, I’m Sadie Goddard
+- 👀 I’m a recent junior full stack developer graduate of School of Code 2022 bootcamp
+- 🌱 I’m currently expanding my skills and experience and open to coding opportunities 
 
 
 <!---

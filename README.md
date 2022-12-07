@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sadie goddard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadie goddard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadie-goddard-227398237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadie-goddard-227398237/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,3 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadie109&show_icons=true&locale=en&layout=compact" alt="sadie109" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadie109&show_icons=true&locale=en" alt="sadie109" /></p>
+
